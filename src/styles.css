@@ -1,0 +1,14 @@
+.App {
+  background: cornsilk;
+  font-family: Pacifico;
+  text-align: center;
+}
+#input {
+  border-radius: 0.5rem;
+  padding: 0.3rem;
+  text-align: center;
+}
+#output {
+  padding: 0.7rem;
+  margin: 0.7rem;
+}
