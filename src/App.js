@@ -36,7 +36,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Emoji Dictionary📚</h1>
+      <h1>Emojify😆</h1>
       <input
         id="input"
         placeholder="enter emoji"
